@@ -28,7 +28,7 @@
 
 ### 프로젝트 구조
 
- <img width=1200 src=https://github.com/user-attachments/assets/c121526b-9c97-4dab-a556-6b57a37b1a8f>
+ <img width=1000 src=https://github.com/user-attachments/assets/c121526b-9c97-4dab-a556-6b57a37b1a8f>
 
 ### 주요 기능
 **- 사용자 앱**
