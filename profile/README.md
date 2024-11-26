@@ -28,30 +28,62 @@
 
 ### 프로젝트 구조
 
+ <img width=1200 src=https://github.com/user-attachments/assets/c121526b-9c97-4dab-a556-6b57a37b1a8f>
+
 ### 주요 기능
-- 사용자 앱
+**- 사용자 앱**
 
-    1. 주변 가게 조회
-    2. 주변 가게 웨이팅
-    3. 테이블오더 -> 사용자용 앱 결제
+1. 주변 가게 조회
 
-- 가게용 테이블오더
+   <img width="900" alt="image" src="https://github.com/user-attachments/assets/cd79e634-df51-4f0d-9694-fdcaf0a3a087">       
+3. 주변 가게 웨이팅
+   
+    <img width="900" alt="image" src="https://github.com/user-attachments/assets/4198a1cc-eb75-4431-b8d6-e5c296026e65">
+4. 테이블오더 -> 사용자용 앱 결제
 
-    1. 테이블 설정
-    2. 주문 및 직원 호출 
-    3. 테이블오더 -> 사용자용 앱 결제 
+    <img width="900" alt="image" src="https://github.com/user-attachments/assets/62643f53-739a-4f50-a54c-5bb32d3825fa">
 
-- 가게용 POS기
 
-    1. 주문 및 직원 호출 확인
-    2. 현재 웨이팅 확인
+**- 가게용 테이블오더**
 
-- 가게 관리용 Web
+1. 테이블 설정
 
-    1. 메뉴, 카테고리 테이블 등의 가게 정보 관리
-    2. 리뷰 분석 (GPT API)
-    3. 매출 통계 및 매출 분석
-    4. 방문, 웨이팅, 예약자 통계
+   <img width="900" alt="image" src="https://github.com/user-attachments/assets/4f7d2865-905b-4bba-941b-0a39e95ba285">    
+3. 주문 및 직원 호출
+
+    <img width="900" alt="image" src="https://github.com/user-attachments/assets/74c8c336-d1af-4037-b0ca-989b29407ae3">
+4. 테이블오더 -> 사용자용 앱 결제
+
+    <img width="900" alt="image" src="https://github.com/user-attachments/assets/b4a7d416-a3e8-4378-a97a-7e2550c81cd8">
+
+
+**- 가게용 POS기**
+
+1. 가게 설정
+
+    <img width="900" alt="image" src="https://github.com/user-attachments/assets/e5197770-e4d4-4fdd-a9a8-2dd7b7815777"> 
+2. 주문 및 직원 호출 확인
+
+    <img width="900" alt="image" src="https://github.com/user-attachments/assets/f93ec833-34f3-4c17-bc08-280303f7d1db"> 
+3. 현재 웨이팅 확인
+
+    <img width="900" alt="image" src="https://github.com/user-attachments/assets/1c372b54-ff64-491d-a13d-29dc618dcbd5"> 
+
+
+**- 가게 관리용 Web**
+
+1. 메뉴, 카테고리 테이블 등의 가게 정보 관리
+
+    <img width="900" alt="image" src="https://github.com/user-attachments/assets/4d0f52ea-b359-4113-b3fe-1cc238ec2099">
+2. 리뷰 분석 (GPT API)
+
+    <img width=900 alt="image" src=https://github.com/user-attachments/assets/7b3c12ee-b56f-406d-ac7a-047356e490c1>
+3. 매출 통계 및 매출 분석
+
+   <img width=900 alt="image" src=https://github.com/user-attachments/assets/608a9ef7-cf66-4b6e-9164-3944b3106b2a>
+4. 방문, 웨이팅, 예약자 통계
+
+    <img width=900 alt="image" src=https://github.com/user-attachments/assets/7471941d-4516-4821-952e-942986868e6f>
 
 
 
